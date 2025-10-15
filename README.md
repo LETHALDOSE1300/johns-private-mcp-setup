@@ -26,8 +26,8 @@ You were thinking about using n8n to connect your AI to tools. That's like buyin
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/LETHALDOSE1300/SidsStartingKit4MCPandGithub.git
-cd SidsStartingKit4MCPandGithub
+git clone https://github.com/LETHALDOSE1300/Custom-MCP-Sid-Starter-Pack.git
+cd Custom-MCP-Sid-Starter-Pack
 
 # 2. Install essential MCP servers
 chmod +x servers/install-essentials.sh
